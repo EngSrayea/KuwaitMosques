@@ -7,23 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BB78752724661F4A00B8D53B /* mutairi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BB78752624661F4900B8D53B /* mutairi.mp3 */; };
+		BB78EB3D2465C0ED008A2F26 /* MusicPlayerNafees.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB78EB3C2465C0ED008A2F26 /* MusicPlayerNafees.swift */; };
+		BB78EB412465C576008A2F26 /* kandary.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BB78EB3E2465C575008A2F26 /* kandary.mp3 */; };
+		BB78EB452466117A008A2F26 /* MusicPlayerKandary.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB78EB442466117A008A2F26 /* MusicPlayerKandary.swift */; };
+		BB78EB47246611FA008A2F26 /* MusicPlayerMutairi.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB78EB46246611FA008A2F26 /* MusicPlayerMutairi.swift */; };
+		BB78EB49246616D0008A2F26 /* nafees.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BB78EB48246616D0008A2F26 /* nafees.mp3 */; };
 		BB8DACEC24630A9600C4CBD1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB8DACEB24630A9600C4CBD1 /* AppDelegate.swift */; };
 		BB8DACEE24630A9600C4CBD1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB8DACED24630A9600C4CBD1 /* SceneDelegate.swift */; };
-		BB8DACF024630A9600C4CBD1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB8DACEF24630A9600C4CBD1 /* ContentView.swift */; };
+		BB8DACF024630A9600C4CBD1 /* MosqueListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB8DACEF24630A9600C4CBD1 /* MosqueListView.swift */; };
 		BB8DACF224630A9D00C4CBD1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB8DACF124630A9D00C4CBD1 /* Assets.xcassets */; };
 		BB8DACF524630A9D00C4CBD1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB8DACF424630A9D00C4CBD1 /* Preview Assets.xcassets */; };
 		BB8DACF824630A9D00C4CBD1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB8DACF624630A9D00C4CBD1 /* LaunchScreen.storyboard */; };
+		BB8DAD012463378200C4CBD1 /* MosqueDetalisView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB8DAD002463378200C4CBD1 /* MosqueDetalisView.swift */; };
+		BB8DAD04246337BB00C4CBD1 /* Mosque.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB8DAD03246337BB00C4CBD1 /* Mosque.swift */; };
+		BBBCBDAD24647C120028E071 /* Timing.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBBCBDAC24647C120028E071 /* Timing.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BB78752624661F4900B8D53B /* mutairi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = mutairi.mp3; sourceTree = "<group>"; };
+		BB78EB3C2465C0ED008A2F26 /* MusicPlayerNafees.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicPlayerNafees.swift; sourceTree = "<group>"; };
+		BB78EB3E2465C575008A2F26 /* kandary.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kandary.mp3; sourceTree = "<group>"; };
+		BB78EB442466117A008A2F26 /* MusicPlayerKandary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicPlayerKandary.swift; sourceTree = "<group>"; };
+		BB78EB46246611FA008A2F26 /* MusicPlayerMutairi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicPlayerMutairi.swift; sourceTree = "<group>"; };
+		BB78EB48246616D0008A2F26 /* nafees.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = nafees.mp3; sourceTree = "<group>"; };
 		BB8DACE824630A9600C4CBD1 /* KuwaitMosques.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KuwaitMosques.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB8DACEB24630A9600C4CBD1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BB8DACED24630A9600C4CBD1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		BB8DACEF24630A9600C4CBD1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		BB8DACEF24630A9600C4CBD1 /* MosqueListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MosqueListView.swift; sourceTree = "<group>"; };
 		BB8DACF124630A9D00C4CBD1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BB8DACF424630A9D00C4CBD1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BB8DACF724630A9D00C4CBD1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BB8DACF924630A9D00C4CBD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB8DAD002463378200C4CBD1 /* MosqueDetalisView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MosqueDetalisView.swift; sourceTree = "<group>"; };
+		BB8DAD03246337BB00C4CBD1 /* Mosque.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mosque.swift; sourceTree = "<group>"; };
+		BBBCBDAC24647C120028E071 /* Timing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timing.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +58,9 @@
 		BB8DACDF24630A9600C4CBD1 = {
 			isa = PBXGroup;
 			children = (
+				BB78EB48246616D0008A2F26 /* nafees.mp3 */,
+				BB78752624661F4900B8D53B /* mutairi.mp3 */,
+				BB78EB3E2465C575008A2F26 /* kandary.mp3 */,
 				BB8DACEA24630A9600C4CBD1 /* KuwaitMosques */,
 				BB8DACE924630A9600C4CBD1 /* Products */,
 			);
@@ -58,7 +79,8 @@
 			children = (
 				BB8DACEB24630A9600C4CBD1 /* AppDelegate.swift */,
 				BB8DACED24630A9600C4CBD1 /* SceneDelegate.swift */,
-				BB8DACEF24630A9600C4CBD1 /* ContentView.swift */,
+				BB8DAD022463379C00C4CBD1 /* Models */,
+				BB8DACFF2463314E00C4CBD1 /* Views */,
 				BB8DACF124630A9D00C4CBD1 /* Assets.xcassets */,
 				BB8DACF624630A9D00C4CBD1 /* LaunchScreen.storyboard */,
 				BB8DACF924630A9D00C4CBD1 /* Info.plist */,
@@ -73,6 +95,27 @@
 				BB8DACF424630A9D00C4CBD1 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		BB8DACFF2463314E00C4CBD1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				BB8DACEF24630A9600C4CBD1 /* MosqueListView.swift */,
+				BB8DAD002463378200C4CBD1 /* MosqueDetalisView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		BB8DAD022463379C00C4CBD1 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				BB8DAD03246337BB00C4CBD1 /* Mosque.swift */,
+				BBBCBDAC24647C120028E071 /* Timing.swift */,
+				BB78EB3C2465C0ED008A2F26 /* MusicPlayerNafees.swift */,
+				BB78EB442466117A008A2F26 /* MusicPlayerKandary.swift */,
+				BB78EB46246611FA008A2F26 /* MusicPlayerMutairi.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -133,6 +176,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB78752724661F4A00B8D53B /* mutairi.mp3 in Resources */,
+				BB78EB49246616D0008A2F26 /* nafees.mp3 in Resources */,
+				BB78EB412465C576008A2F26 /* kandary.mp3 in Resources */,
 				BB8DACF824630A9D00C4CBD1 /* LaunchScreen.storyboard in Resources */,
 				BB8DACF524630A9D00C4CBD1 /* Preview Assets.xcassets in Resources */,
 				BB8DACF224630A9D00C4CBD1 /* Assets.xcassets in Resources */,
@@ -146,9 +192,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB78EB47246611FA008A2F26 /* MusicPlayerMutairi.swift in Sources */,
 				BB8DACEC24630A9600C4CBD1 /* AppDelegate.swift in Sources */,
+				BBBCBDAD24647C120028E071 /* Timing.swift in Sources */,
+				BB8DAD012463378200C4CBD1 /* MosqueDetalisView.swift in Sources */,
+				BB78EB452466117A008A2F26 /* MusicPlayerKandary.swift in Sources */,
 				BB8DACEE24630A9600C4CBD1 /* SceneDelegate.swift in Sources */,
-				BB8DACF024630A9600C4CBD1 /* ContentView.swift in Sources */,
+				BB78EB3D2465C0ED008A2F26 /* MusicPlayerNafees.swift in Sources */,
+				BB8DAD04246337BB00C4CBD1 /* Mosque.swift in Sources */,
+				BB8DACF024630A9600C4CBD1 /* MosqueListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
